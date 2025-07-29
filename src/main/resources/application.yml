@@ -1,1 +1,1 @@
-spring.application.name=config-service
+spring.application.name: config-service
