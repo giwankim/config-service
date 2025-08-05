@@ -14,7 +14,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:giwankim/config-repo.git
+          uri: https://github.com/giwankim/config-repo
           default-label: main
           timeout: 5
           clone-on-start: true
